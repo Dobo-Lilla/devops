@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "06I2g0QZRdQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lilla\\source\\repos\\Dobo-Lilla\\devops\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lilla\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
